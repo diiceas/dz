@@ -1,3 +1,3 @@
-function Car(){}
+function Car() {}
 
-export {Car};
+export { Car };
